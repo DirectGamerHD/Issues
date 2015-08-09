@@ -7,7 +7,7 @@ If you find a potential exploit or vulnerability, please do the following:
 * **Do not** share details with any other users, please exercise responsible disclosure and give us time to fix the issue.
 * **Do not** use this issue tracker to report the exploit or vulnerability, doing so risks an account suspension.
 
-## Submission Guidlines
+## Submission Guidelines
 You can find our submission guidelines [here](https://github.com/Minebunch/Issues/blob/master/README.md).
 
 # Thank you
