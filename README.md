@@ -1,7 +1,7 @@
 # Issues
 Our public issue tracker for requesting features and reporting bugs.
 
-**Responsible Disclosure**
+## Responsible Disclosure
 If you find a potential exploit or vulnerability, please do the following:
 * Contact our developers via PM on [the forum](http://www.minebunch.com/forum/private.php?action=send). Developers: Quadratic, Taizzz, njb_said
 * **Do not** share details with any other users, please exercise responsible disclosure and give us time to fix the issue.
